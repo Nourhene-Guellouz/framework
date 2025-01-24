@@ -1,0 +1,5 @@
+{"1-moreCertificate":"//*[@id='1-moreCertificate']",
+"1-revokeCertificate":"//*[@id='1-revokeCertificate']",
+"swal2-confirm swal2-styled": "//*[@class='swal2-confirm swal2-styled']",
+"btn btn-sm btn-outline-primary": "(//*[@class='btn btn-sm btn-outline-primary'])[3]"
+}
